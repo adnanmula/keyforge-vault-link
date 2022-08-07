@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Keyforge Vault link to DoK
+// @author       adnanmula
 // @namespace    adnanmula
 // @version      0.1
 // @description  Adds a link to the dok website in the deck page of the kf vault
-// @author       You
 // @match        https://www.keyforgegame.com/deck-details/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=keyforgegame.com
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
