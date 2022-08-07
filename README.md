@@ -3,5 +3,5 @@ A simple userscript that adds a link to [Decks of Keyforge](https://decksofkeyfo
 
 ## Install
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (also works with GreaseMonkey)
-2. [Click here](https://github.com/adnanmula/keyforge-vault-link/raw/master/script.js)
+2. [Click here](https://github.com/adnanmula/keyforge-vault-link/raw/master/script.user.js)
 3. Press "Install"
