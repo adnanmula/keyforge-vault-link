@@ -7,7 +7,7 @@
 // @match        https://www.keyforgegame.com/deck-details/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=keyforgegame.com
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
-// @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
+// @require      https://gist.githubusercontent.com/mjblay/18d34d861e981b7785e407c3b443b99b/raw/debc0e6d4d537ac228d1d71f44b1162979a5278c/waitForKeyElements.js
 // @grant        none
 // ==/UserScript==
 
